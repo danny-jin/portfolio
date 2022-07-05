@@ -42,7 +42,7 @@ let info = {
   ],
   experience: [
     {
-      name: 'Full Stack Developer',
+      name: 'Blockchain Developer',
       place: 'Ariswap',
       date: 'Oct 2021 - Present',
       position: '',
