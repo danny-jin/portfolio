@@ -26,7 +26,7 @@ let info = {
     {
       name: 'National University of Singapore',
       place: 'Singapore',
-      date: 'Nov, 2011 - Aug, 2015',
+      date: 'Sep, 2011 - Aug, 2015',
       degree: 'Masters in Computer Science',
       description:
         'Currently pursuing my Master\'s in Computer Science, while specializing in the field of Artificial Intelligence and Machine Learning.',
@@ -44,7 +44,7 @@ let info = {
     {
       name: 'Blockchain Developer',
       place: 'Ariswap',
-      date: 'Oct 2021 - Present',
+      date: 'Oct, 2021 - Present',
       position: '',
       description:
         'Develop a Celo native NFT Marketplace focused on creating the conditions of prosperity for all through NFT & Art',
@@ -53,7 +53,7 @@ let info = {
     {
       name: 'Solana Developer',
       place: 'Chip',
-      date: 'Jun 2021 — October 2021',
+      date: 'Jun, 2021 — October, 2021',
       position: '',
       description:
         'This project(BabyPunks) is a limited NFT collection on the Solana blockchain.\n' +
@@ -64,7 +64,7 @@ let info = {
     {
       name: 'Smart Contract Developer',
       place: 'WagyuSwap',
-      date: 'May 2021 — Oct 2021',
+      date: 'May, 2021 — Oct, 2021',
       position: '',
       description:
         'This project is the leading decentralized exchange on the Velas Chain, which has been clocked as the\n' +
@@ -74,7 +74,7 @@ let info = {
     {
       name: 'Lead Defi Engineer',
       place: 'Chipshop',
-      date: 'Jan 2021 — May 2021',
+      date: 'Jan, 2021 — May, 2021',
       position: '',
       description:
         'Chipshop Finance is an ambitious experimental economy project on the Binance Smart Chain (BSC).\n' +
@@ -86,7 +86,7 @@ let info = {
     {
       name: 'Full Stack Developer',
       place: 'Vavuris',
-      date: 'Feb 2020 — Nov 2020',
+      date: 'Feb, 2020 — Nov, 2020',
       position: '',
       description:
           'This project is a SAAS platform for landscaping',
@@ -95,7 +95,7 @@ let info = {
     {
       name: 'Blockchain Backend Engineer',
       place: 'Gunthy',
-      date: 'Jan 2019 — Mar 2020',
+      date: 'Jan, 2019 — Mar, 2020',
       position: '',
       description:
           'The difference between manual trading and trading with Gunbot is your emotions. Trade 24/7, increase\n' +
@@ -109,7 +109,7 @@ let info = {
     {
       name: 'Project Lead Developer',
       place: 'Taks',
-      date: 'Apr 2017 — Feb 2019',
+      date: 'Apr, 2017 — Feb, 2019',
       position: '',
       description:
           'This project is a Saas platform for Task management.',
@@ -118,7 +118,7 @@ let info = {
     {
       name: 'Senior React/Redux Developer',
       place: 'Doxel',
-      date: 'Jul 2016 — Aug 2017',
+      date: 'Jul, 2016 — Aug, 2017',
       position: '',
       description:
           'Built front-end with React.js/Redux and Material UI library, implemented some advanced features\n' +
