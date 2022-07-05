@@ -58,6 +58,7 @@ export default {
   data() {
     return {
       github: info.links.github,
+      linkedin: info.links.linkedin,
       angellist: info.links.angellist,
       resume: info.links.resume,
       discord: info.links.discord,
