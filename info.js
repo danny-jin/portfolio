@@ -12,7 +12,7 @@ let info = {
     'Accomplished a senior blockchain developer with 4+ years of hands-on experience in delivering top-notch decentralized applications and troubleshooting for many startups and firms. Focused on creating collaborative efforts between support and engineering teams to implement system or product level changes to benefit end-users. Eager to support building an impeccable online reputation by providing high-level customer support for startups and firms. With in-depth knowledge of Artificial Intelligence, implemented deep learning to forecast Cryptocurrency price and made market-competitive tokens.',
   links: {
     github: 'https://github.com/danny-jin',
-    linkedin: 'https://www.linkedin.com/in/danny-jin-378ab41a8',
+    linkedin: 'https://www.linkedin.com/in/danny-jin-136504244',
     resume:
       'https://drive.google.com/file/d/1c4xIX2Wo0OwIa6zy_q3krUHg7aIGd-Yj/view?usp=sharing'
     ,
@@ -44,7 +44,7 @@ let info = {
     {
       name: 'Full Stack Developer',
       place: 'Ariswap',
-      date: 'Oct, 2021 - Apr, 2022',
+      date: 'Oct 2021 - Apr 2022',
       position: '',
       description:
         'Develop a Celo native NFT Marketplace focused on creating the conditions of prosperity for all through NFT & Art',
@@ -109,7 +109,7 @@ let info = {
     {
       name: 'Project Lead Developer',
       place: 'Taks',
-      date: 'Jan 2021 — May 2021',
+      date: 'Apr 2017 — Feb 2019',
       position: '',
       description:
           'This project is a Saas platform for Task management.',
@@ -118,7 +118,7 @@ let info = {
     {
       name: 'Senior React/Redux Developer',
       place: 'Doxel',
-      date: 'Jul 2026 — Aug 2017',
+      date: 'Jul 2016 — Aug 2017',
       position: '',
       description:
           'Built front-end with React.js/Redux and Material UI library, implemented some advanced features\n' +
