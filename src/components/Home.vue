@@ -86,6 +86,7 @@ export default {
       description: info.description,
       name: info.name,
       github: info.links.github,
+      linkedin: info.links.linkedin,
       angellist: info.links.angellist,
       resume: info.links.resume,
       discord: info.links.discord,

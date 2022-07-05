@@ -44,7 +44,7 @@ let info = {
     {
       name: 'Full Stack Developer',
       place: 'Ariswap',
-      date: 'Oct 2021 - Apr 2022',
+      date: 'Oct 2021 - Current',
       position: '',
       description:
         'Develop a Celo native NFT Marketplace focused on creating the conditions of prosperity for all through NFT & Art',
