@@ -12,7 +12,7 @@ let info = {
     'Accomplished a senior blockchain developer with 4+ years of hands-on experience in delivering top-notch decentralized applications and troubleshooting for many startups and firms. Focused on creating collaborative efforts between support and engineering teams to implement system or product level changes to benefit end-users. Eager to support building an impeccable online reputation by providing high-level customer support for startups and firms. With in-depth knowledge of Artificial Intelligence, implemented deep learning to forecast Cryptocurrency price and made market-competitive tokens.',
   links: {
     github: 'https://github.com/danny-jin',
-    linkedin: 'https://www.linkedin.com/in/danny-jin-136504244',
+    linkedin: 'https://www.linkedin.com/in/sacred-danny',
     resume:
       'https://drive.google.com/file/d/1c4xIX2Wo0OwIa6zy_q3krUHg7aIGd-Yj/view?usp=sharing'
     ,
@@ -43,57 +43,33 @@ let info = {
   experience: [
     {
       name: 'Blockchain Developer',
-      place: 'Ariswap',
+      place: 'Celo',
       date: 'Oct, 2021 - Present',
       position: '',
       description:
-        'Develop a Celo native NFT Marketplace focused on creating the conditions of prosperity for all through NFT & Art',
+        `This project is a NFT marketplace on Celo network.`,
       skills: ['Blockchain', 'Smart contracts', 'Solidity', 'Web3.js', 'React.js', 'Typescript']
     },
     {
-      name: 'Solana Developer',
-      place: 'Chip',
-      date: 'Jun, 2021 — October, 2021',
-      position: '',
-      description:
-        'This project(BabyPunks) is a limited NFT collection on the Solana blockchain.\n' +
-          'Supply is capped at 10,000.Your BabyPunks allow you to earn 5% royalties paid in SOL tokens from\n' +
-          'every buy & sell for life.',
-      skills: ['NFT', 'Smart contracts', 'Rust', 'Solana', 'Typescript', 'Node.js', 'Arweave']
-    },
-    {
       name: 'Smart Contract Developer',
-      place: 'WagyuSwap',
-      date: 'May, 2021 — Oct, 2021',
+      place: 'VELAS',
+      date: 'Nov, 2020 — October, 2021',
       position: '',
       description:
-        'This project is the leading decentralized exchange on the Velas Chain, which has been clocked as the\n' +
-          'fastest blockchain in the world.',
-      skills: ['Blockchain', 'Smart contracts', 'Solidity', 'React.js', 'Web3.js']
-    },
-    {
-      name: 'Lead Defi Engineer',
-      place: 'Chipshop',
-      date: 'Jan, 2021 — May, 2021',
-      position: '',
-      description:
-        'Chipshop Finance is an ambitious experimental economy project on the Binance Smart Chain (BSC).\n' +
-          'The aim of this project is to become the longest lasting and most successful stablecoin on the BSC,\n' +
-          'learning from the mistakes of others which went under-pegged. It is a fork of Wantan Mee, a lightweight\n' +
-          'implementation of the Basis Protocol on Ethereum.',
-      skills: ['Blockchain', 'Smart contracts', 'Solidity', 'Web3.js', 'React']
+        `This project is the leading decentralized exchange on the Velas Chain, which has been clocked as the fastest blockchain in the world.`,
+      skills: ['NFT', 'Smart contracts', 'Rust', 'Solana', 'Typescript', 'Node.js', 'Arweave']
     },
     {
       name: 'Full Stack Developer',
       place: 'Vavuris',
-      date: 'Feb, 2020 — Nov, 2020',
+      date: 'Oct, 2019 — Nov, 2020',
       position: '',
       description:
           'This project is a SAAS platform for landscaping',
       skills: ['Next Js', 'Nest Js', 'Angular', 'AWS']
     },
     {
-      name: 'Blockchain Backend Engineer',
+      name: 'Blockchain Developer',
       place: 'Gunthy',
       date: 'Jan, 2019 — Mar, 2020',
       position: '',
@@ -213,7 +189,7 @@ let info = {
       ],
       category: 'NFT Marketplace Dapp',
       github: 'https://github.com/danny-jin/ariswap_frontend',
-      date: 'Oct, 2021 - Apr, 2022',
+      date: 'Oct, 2021 - Present',
       visit: 'https://ariswap.co/',
       description:
           'Develop a Celo native NFT Marketplace focused on creating the conditions of prosperity for all through NFT & Art'
@@ -261,7 +237,7 @@ let info = {
       ],
       technologies: ['React', 'Solidity', 'Web3.js', 'Git'],
       category: 'Dex Dapp',
-      date: 'May, 2021 - Oct, 2021',
+      date: 'Nov, 2020 - Oct, 2021',
       github: 'https://github.com/wagyuswapapp',
       visit: 'https://www.wagyuswap.app/',
       description:
@@ -294,8 +270,8 @@ let info = {
       technologies: ['Next.js', 'Angular', 'Rxjs', 'Tailwind CSS', 'Typescript', 'Nest.js', 'PostgreSQL', 'AWS', 'Git'],
       category: 'Full stack development',
       github: '',
-      date: 'Feb, 2020 - Nov, 2020',
-      visit: '',
+      date: 'Oct, 2019 - Nov, 2020',
+      visit: 'https://vavurislandscaping.com',
       description:
         'Hardscape Architect will consult you about your project and create a detailed 2D Digital Blueprint so that you could get an overall idea of material costs.'
     },
@@ -319,8 +295,8 @@ let info = {
       technologies: ['React', 'SASS/SCSS', 'React Native', 'MySQL', 'HTML', 'Electron Js'],
       category: 'Web development',
       github: '',
-      date: 'Apr, 2017 - Feb, 2019',
-      visit: '',
+      date: 'Jul, 2016 - Aug, 2017',
+      visit: 'https://www.doxel.ai',
       description:
         'Continuous performance monitoring and predictive insights to stay one step ahead of delays and cost overruns.'
     }
