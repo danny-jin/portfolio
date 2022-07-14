@@ -11,7 +11,7 @@ let info = {
   description:
     'Accomplished a senior blockchain developer with 4+ years of hands-on experience in delivering top-notch decentralized applications and troubleshooting for many startups and firms. Focused on creating collaborative efforts between support and engineering teams to implement system or product level changes to benefit end-users. Eager to support building an impeccable online reputation by providing high-level customer support for startups and firms. With in-depth knowledge of Artificial Intelligence, implemented deep learning to forecast Cryptocurrency price and made market-competitive tokens.',
   links: {
-    github: 'https://github.com/danny-jin',
+    github: 'https://github.com/sacred-danny',
     linkedin: 'https://www.linkedin.com/in/sacred-danny',
     resume:
       'https://drive.google.com/file/d/1c4xIX2Wo0OwIa6zy_q3krUHg7aIGd-Yj/view?usp=sharing'
