@@ -20,7 +20,7 @@ let info = {
       'https://discord.gg/vFgsnNHz'
     ,
     telegram:
-      'https://t.me/sacred_danny'
+      'https://t.me/sacred_danny_jin'
   },
   education: [
     {
